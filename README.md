@@ -1,8 +1,8 @@
-**🚀 Strategic Merger in the OTT Space: My Power BI Analysis for Codebasics Challenge 14 🎬📊**
+# 🚀 Strategic Merger in the OTT Space: My Power BI Analysis for Codebasics Challenge 14 🎬📊
 
 Excited to share my submission for Codebasics Power BI Challenge 14, where I analyzed the strategic merger between LioCinema and Jotstar!
 
-Live Dashboard : 
+#**Live Dashboard :** 
 https://app.powerbi.com/view?r=eyJrIjoiOGVlODA2ZDUtOWQxZS00ZjU5LTkzMTUtOTE2YjMwNGIxMjUzIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9
 
 Video Presentation : 
