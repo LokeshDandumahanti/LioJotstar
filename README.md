@@ -14,13 +14,18 @@ https://www.linkedin.com/feed/update/urn:li:activity:7305815074860867584/
 
 ### **🔍 Key Insights from My Analysis:**
  ✅ Content Library: Compared content types across both platforms.
+ 
  ✅ Subscriber Trends: Analyzed acquisition, upgrades, and downgrades.
+ 
  ✅ Inactivity Behavior: Identified patterns based on demographics and city tiers.
+ 
  ✅ Device Preferences & Watch Time: Assessed viewing habits to optimize content strategy.
 
 ### **📊 My Approach:**
  ✔️ Used Power BI to create an interactive dashboard.
+ 
  ✔️ Explored data using SQL & DAX for deeper insights.
+ 
  ✔️ Presented actionable recommendations for post-merger growth.
 
 This challenge was an incredible learning experience, blending data storytelling and business strategy. Huge thanks to Codebasics for this opportunity! 🙌
